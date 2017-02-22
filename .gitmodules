@@ -18,7 +18,7 @@
 	url = https://github.com/torch/cwrap.git
 [submodule "extra/cunn"]
 	path = extra/cunn
-	url = https://github.com/torch/cunn.git
+	url = https://github.com/hfslyc/cunn-SpatialNLLCriterionwithMask.git
 [submodule "extra/cutorch"]
 	path = extra/cutorch
 	url = https://github.com/torch/cutorch.git
@@ -60,7 +60,7 @@
 	url = https://github.com/clementfarabet/lua---nnx.git
 [submodule "extra/nn"]
 	path = extra/nn
-	url = https://github.com/torch/nn.git
+	url = https://github.com/hfslyc/nn-SpatialNLLCriterionwithMask.git
 [submodule "exe/env"]
 	path = exe/env
 	url = https://github.com/torch/env.git
